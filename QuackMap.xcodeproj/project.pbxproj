@@ -7,61 +7,58 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD4A6EED2C1B740400450DDA /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4A6EEC2C1B740400450DDA /* ImagePicker.swift */; };
+		BD4A6EEF2C1B76FD00450DDA /* MoreQuiz2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4A6EEE2C1B76FD00450DDA /* MoreQuiz2.swift */; };
+		BD4A6EF12C1B771300450DDA /* MoreQuiz3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4A6EF02C1B771300450DDA /* MoreQuiz3.swift */; };
 		BD5F52282C189ACC00F62972 /* Quack_MapApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5F52272C189ACC00F62972 /* Quack_MapApp.swift */; };
 		BD5F522A2C189ACC00F62972 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5F52292C189ACC00F62972 /* ContentView.swift */; };
 		BD5F522C2C189ACD00F62972 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD5F522B2C189ACD00F62972 /* Assets.xcassets */; };
 		BD5F522F2C189ACD00F62972 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD5F522E2C189ACD00F62972 /* Preview Assets.xcassets */; };
-		BD5F52392C189ACD00F62972 /* Quack_MapTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5F52382C189ACD00F62972 /* Quack_MapTests.swift */; };
-		BD5F52432C189ACD00F62972 /* Quack_MapUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5F52422C189ACD00F62972 /* Quack_MapUITests.swift */; };
-		BD5F52452C189ACD00F62972 /* Quack_MapUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5F52442C189ACD00F62972 /* Quack_MapUITestsLaunchTests.swift */; };
+		BD7550932C18CB8B00B8B59A /* Tokyo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7550922C18CB8B00B8B59A /* Tokyo.swift */; };
+		BD7550982C18CC3200B8B59A /* TokyoFood.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7550972C18CC3200B8B59A /* TokyoFood.swift */; };
+		BD75509A2C18CC5B00B8B59A /* TokyoAttracts.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7550992C18CC5B00B8B59A /* TokyoAttracts.swift */; };
+		BD75509C2C18CC6900B8B59A /* TokyoShops.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD75509B2C18CC6900B8B59A /* TokyoShops.swift */; };
+		BD75509E2C18CC8000B8B59A /* LA.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD75509D2C18CC8000B8B59A /* LA.swift */; };
+		BD7550A02C18CC9400B8B59A /* LAFood.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD75509F2C18CC9400B8B59A /* LAFood.swift */; };
+		BD7550A22C18CCA200B8B59A /* LAAttracts.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7550A12C18CCA200B8B59A /* LAAttracts.swift */; };
+		BD7550A42C18CCAF00B8B59A /* LAShops.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7550A32C18CCAF00B8B59A /* LAShops.swift */; };
+		BD7550A62C18CCC400B8B59A /* LondonFood.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7550A52C18CCC400B8B59A /* LondonFood.swift */; };
+		BD7550A82C18CCD000B8B59A /* LondonAttracts.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7550A72C18CCD000B8B59A /* LondonAttracts.swift */; };
+		BD7550AA2C18CCDA00B8B59A /* LondonShops.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7550A92C18CCDA00B8B59A /* LondonShops.swift */; };
+		BD7550AE2C18CD2D00B8B59A /* MoreHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7550AD2C18CD2D00B8B59A /* MoreHome.swift */; };
+		BD7550B02C18CD3900B8B59A /* MoreQuiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7550AF2C18CD3900B8B59A /* MoreQuiz.swift */; };
+		BD7550B22C18CD4500B8B59A /* About.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7550B12C18CD4500B8B59A /* About.swift */; };
+		BD7550B42C18CD9800B8B59A /* London.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7550B32C18CD9800B8B59A /* London.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		BD5F52352C189ACD00F62972 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BD5F521C2C189ACC00F62972 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = BD5F52232C189ACC00F62972;
-			remoteInfo = "Quack Map";
-		};
-		BD5F523F2C189ACD00F62972 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BD5F521C2C189ACC00F62972 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = BD5F52232C189ACC00F62972;
-			remoteInfo = "Quack Map";
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		BD5F52242C189ACC00F62972 /* Quack Map.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quack Map.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD4A6EEC2C1B740400450DDA /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		BD4A6EEE2C1B76FD00450DDA /* MoreQuiz2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreQuiz2.swift; sourceTree = "<group>"; };
+		BD4A6EF02C1B771300450DDA /* MoreQuiz3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreQuiz3.swift; sourceTree = "<group>"; };
+		BD5F52242C189ACC00F62972 /* QuackMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuackMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD5F52272C189ACC00F62972 /* Quack_MapApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quack_MapApp.swift; sourceTree = "<group>"; };
 		BD5F52292C189ACC00F62972 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD5F522B2C189ACD00F62972 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD5F522E2C189ACD00F62972 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		BD5F52342C189ACD00F62972 /* Quack MapTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Quack MapTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BD5F52382C189ACD00F62972 /* Quack_MapTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quack_MapTests.swift; sourceTree = "<group>"; };
-		BD5F523E2C189ACD00F62972 /* Quack MapUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Quack MapUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BD5F52422C189ACD00F62972 /* Quack_MapUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quack_MapUITests.swift; sourceTree = "<group>"; };
-		BD5F52442C189ACD00F62972 /* Quack_MapUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quack_MapUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BD7550922C18CB8B00B8B59A /* Tokyo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tokyo.swift; sourceTree = "<group>"; };
+		BD7550972C18CC3200B8B59A /* TokyoFood.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokyoFood.swift; sourceTree = "<group>"; };
+		BD7550992C18CC5B00B8B59A /* TokyoAttracts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokyoAttracts.swift; sourceTree = "<group>"; };
+		BD75509B2C18CC6900B8B59A /* TokyoShops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokyoShops.swift; sourceTree = "<group>"; };
+		BD75509D2C18CC8000B8B59A /* LA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LA.swift; sourceTree = "<group>"; };
+		BD75509F2C18CC9400B8B59A /* LAFood.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LAFood.swift; sourceTree = "<group>"; };
+		BD7550A12C18CCA200B8B59A /* LAAttracts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LAAttracts.swift; sourceTree = "<group>"; };
+		BD7550A32C18CCAF00B8B59A /* LAShops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LAShops.swift; sourceTree = "<group>"; };
+		BD7550A52C18CCC400B8B59A /* LondonFood.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LondonFood.swift; sourceTree = "<group>"; };
+		BD7550A72C18CCD000B8B59A /* LondonAttracts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LondonAttracts.swift; sourceTree = "<group>"; };
+		BD7550A92C18CCDA00B8B59A /* LondonShops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LondonShops.swift; sourceTree = "<group>"; };
+		BD7550AD2C18CD2D00B8B59A /* MoreHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreHome.swift; sourceTree = "<group>"; };
+		BD7550AF2C18CD3900B8B59A /* MoreQuiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreQuiz.swift; sourceTree = "<group>"; };
+		BD7550B12C18CD4500B8B59A /* About.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = About.swift; sourceTree = "<group>"; };
+		BD7550B32C18CD9800B8B59A /* London.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = London.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		BD5F52212C189ACC00F62972 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		BD5F52312C189ACD00F62972 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		BD5F523B2C189ACD00F62972 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -75,8 +72,6 @@
 			isa = PBXGroup;
 			children = (
 				BD5F52262C189ACC00F62972 /* Quack Map */,
-				BD5F52372C189ACD00F62972 /* Quack MapTests */,
-				BD5F52412C189ACD00F62972 /* Quack MapUITests */,
 				BD5F52252C189ACC00F62972 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -84,9 +79,7 @@
 		BD5F52252C189ACC00F62972 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BD5F52242C189ACC00F62972 /* Quack Map.app */,
-				BD5F52342C189ACD00F62972 /* Quack MapTests.xctest */,
-				BD5F523E2C189ACD00F62972 /* Quack MapUITests.xctest */,
+				BD5F52242C189ACC00F62972 /* QuackMap.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -96,7 +89,11 @@
 			children = (
 				BD5F52272C189ACC00F62972 /* Quack_MapApp.swift */,
 				BD5F52292C189ACC00F62972 /* ContentView.swift */,
-				BD5F522B2C189ACD00F62972 /* Assets.xcassets */,
+				BD7550B12C18CD4500B8B59A /* About.swift */,
+				BD7550952C18CBEA00B8B59A /* London */,
+				BD7550962C18CBF000B8B59A /* LosAngeles */,
+				BD7550942C18CBC000B8B59A /* Tokyo */,
+				BD7550AB2C18CCEE00B8B59A /* More */,
 				BD5F522D2C189ACD00F62972 /* Preview Content */,
 			);
 			path = "Quack Map";
@@ -105,34 +102,63 @@
 		BD5F522D2C189ACD00F62972 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				BD5F522B2C189ACD00F62972 /* Assets.xcassets */,
 				BD5F522E2C189ACD00F62972 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		BD5F52372C189ACD00F62972 /* Quack MapTests */ = {
+		BD7550942C18CBC000B8B59A /* Tokyo */ = {
 			isa = PBXGroup;
 			children = (
-				BD5F52382C189ACD00F62972 /* Quack_MapTests.swift */,
+				BD7550922C18CB8B00B8B59A /* Tokyo.swift */,
+				BD7550972C18CC3200B8B59A /* TokyoFood.swift */,
+				BD7550992C18CC5B00B8B59A /* TokyoAttracts.swift */,
+				BD75509B2C18CC6900B8B59A /* TokyoShops.swift */,
 			);
-			path = "Quack MapTests";
+			path = Tokyo;
 			sourceTree = "<group>";
 		};
-		BD5F52412C189ACD00F62972 /* Quack MapUITests */ = {
+		BD7550952C18CBEA00B8B59A /* London */ = {
 			isa = PBXGroup;
 			children = (
-				BD5F52422C189ACD00F62972 /* Quack_MapUITests.swift */,
-				BD5F52442C189ACD00F62972 /* Quack_MapUITestsLaunchTests.swift */,
+				BD7550B32C18CD9800B8B59A /* London.swift */,
+				BD7550A52C18CCC400B8B59A /* LondonFood.swift */,
+				BD7550A72C18CCD000B8B59A /* LondonAttracts.swift */,
+				BD7550A92C18CCDA00B8B59A /* LondonShops.swift */,
 			);
-			path = "Quack MapUITests";
+			path = London;
+			sourceTree = "<group>";
+		};
+		BD7550962C18CBF000B8B59A /* LosAngeles */ = {
+			isa = PBXGroup;
+			children = (
+				BD75509D2C18CC8000B8B59A /* LA.swift */,
+				BD75509F2C18CC9400B8B59A /* LAFood.swift */,
+				BD7550A12C18CCA200B8B59A /* LAAttracts.swift */,
+				BD7550A32C18CCAF00B8B59A /* LAShops.swift */,
+			);
+			path = LosAngeles;
+			sourceTree = "<group>";
+		};
+		BD7550AB2C18CCEE00B8B59A /* More */ = {
+			isa = PBXGroup;
+			children = (
+				BD7550AD2C18CD2D00B8B59A /* MoreHome.swift */,
+				BD7550AF2C18CD3900B8B59A /* MoreQuiz.swift */,
+				BD4A6EEE2C1B76FD00450DDA /* MoreQuiz2.swift */,
+				BD4A6EF02C1B771300450DDA /* MoreQuiz3.swift */,
+				BD4A6EEC2C1B740400450DDA /* ImagePicker.swift */,
+			);
+			path = More;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BD5F52232C189ACC00F62972 /* Quack Map */ = {
+		BD5F52232C189ACC00F62972 /* QuackMap */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BD5F52482C189ACD00F62972 /* Build configuration list for PBXNativeTarget "Quack Map" */;
+			buildConfigurationList = BD5F52482C189ACD00F62972 /* Build configuration list for PBXNativeTarget "QuackMap" */;
 			buildPhases = (
 				BD5F52202C189ACC00F62972 /* Sources */,
 				BD5F52212C189ACC00F62972 /* Frameworks */,
@@ -142,46 +168,10 @@
 			);
 			dependencies = (
 			);
-			name = "Quack Map";
+			name = QuackMap;
 			productName = "Quack Map";
-			productReference = BD5F52242C189ACC00F62972 /* Quack Map.app */;
+			productReference = BD5F52242C189ACC00F62972 /* QuackMap.app */;
 			productType = "com.apple.product-type.application";
-		};
-		BD5F52332C189ACD00F62972 /* Quack MapTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = BD5F524B2C189ACD00F62972 /* Build configuration list for PBXNativeTarget "Quack MapTests" */;
-			buildPhases = (
-				BD5F52302C189ACD00F62972 /* Sources */,
-				BD5F52312C189ACD00F62972 /* Frameworks */,
-				BD5F52322C189ACD00F62972 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				BD5F52362C189ACD00F62972 /* PBXTargetDependency */,
-			);
-			name = "Quack MapTests";
-			productName = "Quack MapTests";
-			productReference = BD5F52342C189ACD00F62972 /* Quack MapTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		BD5F523D2C189ACD00F62972 /* Quack MapUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = BD5F524E2C189ACD00F62972 /* Build configuration list for PBXNativeTarget "Quack MapUITests" */;
-			buildPhases = (
-				BD5F523A2C189ACD00F62972 /* Sources */,
-				BD5F523B2C189ACD00F62972 /* Frameworks */,
-				BD5F523C2C189ACD00F62972 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				BD5F52402C189ACD00F62972 /* PBXTargetDependency */,
-			);
-			name = "Quack MapUITests";
-			productName = "Quack MapUITests";
-			productReference = BD5F523E2C189ACD00F62972 /* Quack MapUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
@@ -196,17 +186,9 @@
 					BD5F52232C189ACC00F62972 = {
 						CreatedOnToolsVersion = 15.4;
 					};
-					BD5F52332C189ACD00F62972 = {
-						CreatedOnToolsVersion = 15.4;
-						TestTargetID = BD5F52232C189ACC00F62972;
-					};
-					BD5F523D2C189ACD00F62972 = {
-						CreatedOnToolsVersion = 15.4;
-						TestTargetID = BD5F52232C189ACC00F62972;
-					};
 				};
 			};
-			buildConfigurationList = BD5F521F2C189ACC00F62972 /* Build configuration list for PBXProject "Quack Map" */;
+			buildConfigurationList = BD5F521F2C189ACC00F62972 /* Build configuration list for PBXProject "QuackMap" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -219,9 +201,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BD5F52232C189ACC00F62972 /* Quack Map */,
-				BD5F52332C189ACD00F62972 /* Quack MapTests */,
-				BD5F523D2C189ACD00F62972 /* Quack MapUITests */,
+				BD5F52232C189ACC00F62972 /* QuackMap */,
 			);
 		};
 /* End PBXProject section */
@@ -236,20 +216,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BD5F52322C189ACD00F62972 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		BD5F523C2C189ACD00F62972 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -257,42 +223,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD75509E2C18CC8000B8B59A /* LA.swift in Sources */,
+				BD4A6EF12C1B771300450DDA /* MoreQuiz3.swift in Sources */,
+				BD4A6EEF2C1B76FD00450DDA /* MoreQuiz2.swift in Sources */,
+				BD7550B22C18CD4500B8B59A /* About.swift in Sources */,
+				BD7550982C18CC3200B8B59A /* TokyoFood.swift in Sources */,
+				BD7550A42C18CCAF00B8B59A /* LAShops.swift in Sources */,
+				BD7550AE2C18CD2D00B8B59A /* MoreHome.swift in Sources */,
+				BD7550A62C18CCC400B8B59A /* LondonFood.swift in Sources */,
+				BD4A6EED2C1B740400450DDA /* ImagePicker.swift in Sources */,
+				BD7550B02C18CD3900B8B59A /* MoreQuiz.swift in Sources */,
+				BD7550B42C18CD9800B8B59A /* London.swift in Sources */,
+				BD7550932C18CB8B00B8B59A /* Tokyo.swift in Sources */,
+				BD7550A22C18CCA200B8B59A /* LAAttracts.swift in Sources */,
 				BD5F522A2C189ACC00F62972 /* ContentView.swift in Sources */,
+				BD7550A82C18CCD000B8B59A /* LondonAttracts.swift in Sources */,
+				BD7550A02C18CC9400B8B59A /* LAFood.swift in Sources */,
 				BD5F52282C189ACC00F62972 /* Quack_MapApp.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		BD5F52302C189ACD00F62972 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				BD5F52392C189ACD00F62972 /* Quack_MapTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		BD5F523A2C189ACD00F62972 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				BD5F52432C189ACD00F62972 /* Quack_MapUITests.swift in Sources */,
-				BD5F52452C189ACD00F62972 /* Quack_MapUITestsLaunchTests.swift in Sources */,
+				BD75509C2C18CC6900B8B59A /* TokyoShops.swift in Sources */,
+				BD75509A2C18CC5B00B8B59A /* TokyoAttracts.swift in Sources */,
+				BD7550AA2C18CCDA00B8B59A /* LondonShops.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		BD5F52362C189ACD00F62972 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = BD5F52232C189ACC00F62972 /* Quack Map */;
-			targetProxy = BD5F52352C189ACD00F62972 /* PBXContainerItemProxy */;
-		};
-		BD5F52402C189ACD00F62972 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = BD5F52232C189ACC00F62972 /* Quack Map */;
-			targetProxy = BD5F523F2C189ACD00F62972 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		BD5F52462C189ACD00F62972 /* Debug */ = {
@@ -422,6 +376,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Quack Map/Preview Content\"";
+				DEVELOPMENT_TEAM = 8DS4RJ447P;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -434,7 +389,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "kwk.Quack-Map";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Nysa.QuackMap;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -450,6 +405,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Quack Map/Preview Content\"";
+				DEVELOPMENT_TEAM = 8DS4RJ447P;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -462,7 +418,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "kwk.Quack-Map";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Nysa.QuackMap;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -470,82 +426,10 @@
 			};
 			name = Release;
 		};
-		BD5F524C2C189ACD00F62972 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "kwk.Quack-MapTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Quack Map.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Quack Map";
-			};
-			name = Debug;
-		};
-		BD5F524D2C189ACD00F62972 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "kwk.Quack-MapTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Quack Map.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Quack Map";
-			};
-			name = Release;
-		};
-		BD5F524F2C189ACD00F62972 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "kwk.Quack-MapUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Quack Map";
-			};
-			name = Debug;
-		};
-		BD5F52502C189ACD00F62972 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "kwk.Quack-MapUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Quack Map";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BD5F521F2C189ACC00F62972 /* Build configuration list for PBXProject "Quack Map" */ = {
+		BD5F521F2C189ACC00F62972 /* Build configuration list for PBXProject "QuackMap" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BD5F52462C189ACD00F62972 /* Debug */,
@@ -554,29 +438,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BD5F52482C189ACD00F62972 /* Build configuration list for PBXNativeTarget "Quack Map" */ = {
+		BD5F52482C189ACD00F62972 /* Build configuration list for PBXNativeTarget "QuackMap" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BD5F52492C189ACD00F62972 /* Debug */,
 				BD5F524A2C189ACD00F62972 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		BD5F524B2C189ACD00F62972 /* Build configuration list for PBXNativeTarget "Quack MapTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				BD5F524C2C189ACD00F62972 /* Debug */,
-				BD5F524D2C189ACD00F62972 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		BD5F524E2C189ACD00F62972 /* Build configuration list for PBXNativeTarget "Quack MapUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				BD5F524F2C189ACD00F62972 /* Debug */,
-				BD5F52502C189ACD00F62972 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
